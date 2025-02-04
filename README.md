@@ -2,7 +2,6 @@ VisionAI Predictor
 
 
 VisionAI Predictor is an AI-powered machine learning application designed to predict outcomes using vision-based data. This project leverages advanced computer vision and deep learning techniques to make predictions based 
-
 on image inputs, showcasing the potential of AI in real-world applications.
 
 
